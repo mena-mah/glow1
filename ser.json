@@ -1,0 +1,130 @@
+[
+    
+    {
+      "id": 1,
+      "img": "img/Airbnb Cleaning Services.png",
+      "name": "Airbnb Cleaning",
+      "price": 80,
+      "link":"clining.php"
+    },
+    {
+      "id": 2,
+      "img": "img/Apartment Cleaning.png" ,
+      "name": "Apartment Maintenance",
+      "price": 40,
+      "link":"Maintenance.php"
+    },
+    {
+      "id": 3,
+      "img": "img/Appliance Cleaning Services.png",
+      "name": "Appliance Cleaning",
+      "price": 50,
+      "link":"clining.php"
+    },
+    {
+      "id": 4,
+      "img": "img/Bathroom Cleaning Services.png",
+      "name": "Bathroom Cleaning",
+      "price": 50,
+      "link":"clining.php"
+    },
+    {
+      "id": 5,
+      "img": "img/Deep Cleanning.png",
+      "name": "Deep Cleanning",
+      "price": 80,
+      "link":"clining.php"
+    },
+    {
+      "id": 6,
+      "img": "img/Green Cleaning Services.png",
+      "name": "Green Cleaning Services",
+      "price": 20,
+      "link":"clining.php"
+    },
+    {
+      "id": 7,
+      "img": "img/Holiday Cleaning.png",
+      "name": "Holiday Maintenance",
+      "price": 30,
+      "link":"Maintenance.php"
+    },
+    {
+      "id": 8,
+      "img": "img/Housekeeping Services.png",
+      "name": "Housekeeping Services",
+      "price": 32,
+      "link":"clining.php"
+    },
+    {
+      "id": 9,
+      "img": "img/one-time-cleaning-icon.png.webp",
+      "name": "one-time-Maintenance",
+      "price": 80,
+      "link":"Maintenance.php"
+    },
+    {
+      "id": 10,
+      "img": "img/Window Cleaning Services.png",
+      "name": "Window Cleaning Services",
+      "price": 30,
+      "link":"clining.php"
+    },
+    {
+      "id": 11,
+      "img": "img/Spring Or Faal Cleaing.png",
+      "name": "Spring Or Faal Cleaing",
+      "price": 20,
+      "link":"clining.php"
+    },
+    {
+      "id": 12,
+      "img": "img/Special Cleaning Services.png",
+      "name": "Special Cleaning",
+      "price": 70
+    },
+    {
+      "id": 13,
+      "img": "img/Small Business Cleaning.png" ,
+      "name": "Small Business Cleaning",
+      "price": 90,
+      "link":"clining.php"
+    },
+    {
+      "id": 14,
+      "img": "img/Move-In Cleaning.png",
+      "name": "Move-In Cleaning",
+      "price": 30,
+      "link":"clining.php"
+    },
+    {
+      "id": 15,
+      "img": "img/Same Day Cleaning.png",
+      "name": "Same Day Cleaning",
+      "price": 20,
+      "link":"clining.php"
+    },
+    {
+      "id": 16,
+      "img":"img/Recurring Cleaning.png",
+      "name": "Recurring Cleaning",
+      "price":30 ,
+      "link":"clining.php"
+    },
+    {
+      "id": 17,
+      "img":"img/Post-Renovation Cleaning Services.png",
+      "name": "Post-Renovation Maintenance",
+      "price": 15,
+      "link":"Maintenance.php"
+    },
+    {
+      "id": 18,
+      "img":"img/Move-Out Cleaning.png",
+      "name": "Move-Out Cleaning",
+      "price": 25,
+      "link":"clining.php"
+    }
+   
+  
+  ]
